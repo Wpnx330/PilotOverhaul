@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "7.0.1",
+	"FriendlyName": "PilotOverhaul",
+	"Description": "In vanilla, pilots feel.... trivial. Not any more!\r\n\r\nPilot Overhaul has too many features to list in this little text box. New systems, customization options, mod options, pilots, voices, and other additional content. It's a complete overhaul of all things Pilot related!",
+	"Category": "Other",
+	"CreatedBy": "Wpnx330",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"IsMod": true,
+	"Installed": false
+}
